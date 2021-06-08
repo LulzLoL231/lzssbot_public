@@ -1,0 +1,42 @@
+# -*- coding: utf-8 -*-
+#
+#  PcControl - Emojis.
+#  Created by LulzLoL231 at 29/11/20
+#
+class Emojis(object):
+    '''PCON Emojis class
+    '''
+    hello = '👋'
+    access_denied = '🚫'
+    warning = '⚠️'
+    online = '🟢'
+    offline = '⚫️'
+    ok = '✅'
+    cancel = '❎'
+    lock = '🔒'
+    switch = '🔄'
+    key = '🔑'
+    reboot = '♻️'
+    poweroff = '🔌'
+    sleep = '💤'
+    zero = '0️⃣'
+    one = '1️⃣'
+    two = '2️⃣'
+    three = '3️⃣'
+    four = '4️⃣'
+    five = '5️⃣'
+    six = '6️⃣'
+    seven = '7️⃣'
+    eight = '8️⃣'
+    nine = '9️⃣'
+    next_page = '▶️'
+    back_page = '◀️'
+    prev_track = '⏮'
+    play_pause = '⏯'
+    stop = '⏹'
+    next_track = '⏭'
+    plus = '➕'
+    minus = '➖'
+    mute = '🔇'
+    horn = '📣'
+    pen = '✏️'
